@@ -2,6 +2,7 @@
   <h1>{{ msg }}</h1>
 
   <div class="card">
+    <h1>¡Hola Mundo!</h1>
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
